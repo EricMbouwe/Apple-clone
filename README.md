@@ -1,9 +1,9 @@
 # Apple-clone
 Clone of the old official Apple homepage for study purpose
 
-> This is an assigment for Microverse HTML and CSS course. The goal is to clone the old apple homepage to implement gradients and floats.
+> This is a practice case of Microverse HTML and CSS course. The goal is to clone the old apple homepage to implement gradients and floats.
 
-![screenshot](./IMG/)
+![screenshot](./images/screenshot.PNG)
 
 Additional description about the project and its features.
 
@@ -46,7 +46,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/).
+Feel free to check the [issues page](https://github.com/EricMbouwe/Apple-clone/issues).
 
 ## Show your support
 

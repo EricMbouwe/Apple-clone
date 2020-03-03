@@ -72,7 +72,7 @@ main img {
 
 .nav-item-search {
   padding: 7px;
-  border-left: 1px solid rgba(0, 0, 0, 0.226);;
+  border-left: 1px solid rgba(0, 0, 0, 0.226);
   width: 500px;
   margin: 0;
 }
@@ -130,7 +130,7 @@ footer a {
   color: white;
 }
 
-.nav-item:hover, 
+.nav-item:hover,
 .nav-item-logo:hover {
   background-color: #454545;
 }
