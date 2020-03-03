@@ -15,7 +15,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo](https://rawcdn.githack.com/EricMbouwe/Apple-clone/f3ee9d72b727ac6e22ac918c134d119fe9281d61/home.html)
+[Live Demo](https://rawcdn.githack.com/EricMbouwe/Apple-clone/f9ee6ef3f9ff0220b360ab97567dccdf4a1fc04e/home.html)
 
 ## Getting Started
 
@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-- A compatible browser with HTML and CSS. 
+- A compatible browser with HTML and CSS.
 
 ### Install
 
