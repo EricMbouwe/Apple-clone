@@ -15,7 +15,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo](https://rawcdn.githack.com/EricMbouwe/Apple-clone/f9ee6ef3f9ff0220b360ab97567dccdf4a1fc04e/home.html)
+[Live Demo](https://raw.githack.com/EricMbouwe/Apple-clone/master/home.html)
 
 ## Getting Started
 
@@ -44,7 +44,17 @@ To get a local copy up and running follow these simple example steps.
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!
+Contributions, issues and feature requests are welcome! Start by:
+
+* Forking the project
+* Cloning the project to your local machine
+* `cd` into the project directory
+* Run `git checkout -b your-branch-name`
+* Make your contributions
+* Push your branch up to your forked repository
+* Open a Pull Request with a detailed description to the development branch of the original project for a review
+
+##### Please feel free to contribute to any of these!
 
 Feel free to check the [issues page](https://github.com/EricMbouwe/Apple-clone/issues).
 
@@ -56,6 +66,7 @@ Give a ⭐️ if you like this project!
 
 - The Odin Project
 - [shayhowe](https://learn.shayhowe.com/html-css/setting-backgrounds-and-gradients/)
+- [Microverse](microverse.org)
 
 ## 📝 License
 

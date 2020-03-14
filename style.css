@@ -7,6 +7,7 @@
 
 body {
   color: white;
+  overflow-x: hidden;
 }
 
 a {
@@ -73,17 +74,25 @@ main img {
 .nav-item-search {
   padding: 7px;
   border-left: 1px solid rgba(0, 0, 0, 0.226);
-  width: 500px;
-  margin: 0;
+  width: 100%;
 }
 
-/* .fa {
+.form-control {
   position: relative;
-  top: -18px;
-  left: 10px;
-} */
+}
+
+ .form-control i {
+  position: absolute;
+  top: 5px;
+  left: 8px;
+}
+
+.form-control a {
+  color: #fff;
+}
 
 .nav-item-search input {
+  position: relative;
   border: none;
   border-radius: 20px;
   padding: 5px 10px;
@@ -98,6 +107,7 @@ main img {
   outline: none;
   width: 180px;
   background-color: white;
+  color: #000;
 }
 
 .title {
